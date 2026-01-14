@@ -17,7 +17,7 @@ This project is a dynamic clock built with React and the date-fns library. It sh
 **React** - included in dependencies
 **date-fns** - included in dependencies
 
-### 🛠️ Installing
+### Installing
 
 1. Clone or download this project to your local machine.
 2. Navigate to the project directory in your terminal:
@@ -32,7 +32,7 @@ This project is a dynamic clock built with React and the date-fns library. It sh
     npm install
     ```
 
-### 💻 Executing
+### Executing
 
 1. Start the development server:
 
@@ -67,4 +67,3 @@ Verify useEffect hook is running
 
 Ensure App.css is in the same directory as App.jsx
 Check that import './App.css' is at the top of App.jsx
-# color-clock
