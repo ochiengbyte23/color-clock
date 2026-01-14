@@ -45,6 +45,7 @@ This project is a dynamic clock built with React and the date-fns library. It sh
 
     <http://127.0.0.1:5173/>
 
+![alt text](image.png)
 4. The clock should now be running and updating every second
 5. To stop the server, press Ctrl + C in the terminal
 
