@@ -55,8 +55,10 @@ This project is a dynamic clock built with React and the date-fns library. It sh
 
 #### Problem: npm install fails
 
+```bash
 npm cache clean --force
 npm install
+```
 
 #### Problem: Clock not updating
 
